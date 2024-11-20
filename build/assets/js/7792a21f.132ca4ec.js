@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_own_docs=self.webpackChunkmy_own_docs||[]).push([[1220],{6905:(s,e,n)=>{n.r(e),n.d(e,{default:()=>i});n(6540);var t=n(7823),c=n(4848);function i(){return(0,c.jsxs)(t.A,{children:[(0,c.jsx)("div",{children:"about"}),(0,c.jsx)("o",{children:"This is the about page for testing!!!"})]})}}}]);
