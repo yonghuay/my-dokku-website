@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_own_docs=self.webpackChunkmy_own_docs||[]).push([[4119],{1352:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/my-dokku-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
